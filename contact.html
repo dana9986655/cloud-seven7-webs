@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title data-lang="contact"></title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">Cloud Seven</div>
+  <nav class="navbar">
+    <a href="index.html" data-lang="home"></a>
+    <a href="about.html" data-lang="about"></a>
+    <a href="services.html" data-lang="services"></a>
+    <a href="projects.html" data-lang="projects"></a>
+    <a href="contact.html" data-lang="contact"></a>
+  </nav>
+  <div class="lang-btns">
+    <button onclick="setLanguage('en')">EN</button>
+    <button onclick="setLanguage('ar')">AR</button>
+    <button onclick="setLanguage('hi')">HI</button>
+  </div>
+</header>
+
+<section class="contact-page">
+  <h1 data-lang="contact_title"></h1>
+  <p data-lang="contact_desc"></p>
+  <div class="contact-info">
+    <p>Email: info@cloudseven.com</p>
+    <p>Phone: +966 13808 7770</p>
+    <p data-lang="footer_fax"></p>
+    <p data-lang="footer_address"></p>
+  </div>
+  <form class="contact-form">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+    <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+<footer>
+  <div class="footer-info">
+    <p data-lang="footer_address"></p>
+    <p>Email: info@cloud7arabia.com</p>
+    <p data-lang="footer_fax"></p>
+    <p>Phone: +966 13808 7770</p>
+  </div>
+  <p>&copy; 2026 Cloud Seven Engineering</p>
+</footer>
+
+<script src="js/lang.js"></script>
+</body>
+</html>

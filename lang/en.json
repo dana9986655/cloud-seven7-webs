@@ -1,0 +1,10 @@
+{
+  "home":"Home","about":"About","services":"Services","projects":"Projects","contact":"Contact",
+  "hero":"Engineering Excellence Delivered","hero_desc":"Reliable engineering solutions with quality and safety first.",
+  "quote":"Request A Quote",
+  "stat_experience":"Years of Experience","stat_clients":"Satisfied Clients","stat_projects":"Completed Projects","stat_support":"24/7 Support",
+  "services_title":"Our Services","service1_title":"Industrial Services","service2_title":"Contracting","service3_title":"Manpower","service4_title":"Equipment Rental",
+  "projects_title":"Our Projects","project1_title":"Saudi Aircon","project2_title":"Al Rushaid","project3_title":"Pipeline Works",
+  "clients_title":"Our Trusted Partners","footer_address":"#5, 1st floor, Fahad Complex‑1, Al Najim Business Center, Prince Mansour Bin Abdul Aziz St, Dammam, KSA","footer_fax":"Fax: +966 13802 0047",
+  "view_services":"View All Services","view_projects":"View All Projects"
+}
